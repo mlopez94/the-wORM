@@ -36,8 +36,11 @@ router.get("/:id", (req, res) => {
       id: req.params.id,
     },
 
-    attributes: ["id", "product_name", "price", "stock", "category_id"],
+    
     include: [
+      {
+        model: Category
+      },
       {
         model: Tag,
         attributes: ["id", "tag_name"],
