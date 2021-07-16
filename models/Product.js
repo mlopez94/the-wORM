@@ -40,8 +40,8 @@ Product.init(
       references: {
         model: Category,
         key: "id",
-      }
-    }
+      },
+    },
   },
   {
     sequelize,
