@@ -13,7 +13,7 @@ SO THAT my company can compete with other e-commerce companies
   * [Usage](#usage)
   * [Contribution](#contribution)
   * [License](#license)
-  * [Testing](#testing)
+  * [Link](#link)
   * [Questions](#questions)
 
   ## Installation
@@ -28,6 +28,9 @@ SO THAT my company can compete with other e-commerce companies
   Starter code was provided by: <br />
   Rutgers Bootcamp <br />
    
+  ## Link
+[Part 1](https://youtu.be/S3oXmULFtdE) <br />
+[Part 2](https://youtu.be/0Qc5YsMf0Pc)
 
   ## License
   The license for this project is ![badge](https://img.shields.io/badge/license-Apache%20License%202.0-red)
